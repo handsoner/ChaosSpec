@@ -1,7 +1,15 @@
 # ChaosSpec
   The code of "ChaosSpec: multimodal spectral fusion framework with chaotic feature extraction for differential diagnosis of lethal chest pain"
-The code will be made publicly available within one week after the paper is officially accepted.
+  
+## 📢 Statement on Data Availability
 
+Thank you for your interest in the ChaosSpec framework. We deeply understand and support the importance of data transparency and reproducibility in computational biology.
+
+However, because the dataset used in this study consists of highly sensitive clinical serum spectra from patients with lethal cardiovascular emergencies, we are strictly bound by the ethical guidelines of our collaborating hospital and patient privacy protection regulations. Therefore, the full clinical dataset cannot be made publicly available at this stage without prior institutional authorization.
+
+To facilitate peer review and assist researchers in testing our model, we are actively working on a solution. Once the manuscript is officially accepted, and upon securing explicit approval from the hospital's ethics committee and the patients, we plan to release a rigorously de-identified and anonymized subset of the Raman and chaotic spectral data. This subset will be provided as a "toy dataset" in this repository, enabling users to seamlessly run the code, understand the data format, and verify the model's performance.
+
+We sincerely appreciate your understanding, patience, and support for medical ethics!
 <img width="530" height="167" alt="image" src="https://github.com/user-attachments/assets/c2971e1a-5664-4788-8aff-6fffe1f9187c" />
 
 <img width="524" height="220" alt="image" src="https://github.com/user-attachments/assets/fe8bba17-88e5-4eb6-b88c-381f669943b4" />
